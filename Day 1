@@ -1,0 +1,5 @@
+#Printing the string lenght 
+print(len(input("What is your name?" )))
+user = input("what is your name")
+length = len(user)
+print(length)
